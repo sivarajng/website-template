@@ -1,0 +1,21 @@
+.navbar-brand{
+	background-color: #FFEB3B;
+}
+.navbar-inverse .navbar-brand {
+color: #000000;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover
+{
+	    color: #FFEB3B;
+}
+.navbar-inverse .navbar-nav>li>a
+{
+	    color: #FFEB3B;
+}
+
+.carousel-margin-top{
+	margin-top: -20px;
+}
